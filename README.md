@@ -6,3 +6,6 @@ I remixed Alex Teng's original [HTML and CSS project](http://i6.cims.nyu.edu/~ay
 
 The remixed version is located here: 
 [Remix](http://i6.cims.nyu.edu/~bch305/drawing/drawing-master/index.html)
+
+Alex's Original Repository:
+[Alex](https://github.com/ayyteng/drawing)
